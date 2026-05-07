@@ -1,2 +1,1 @@
-# na-kahiro.github.io
-My HomePage from 2026
+# na-kahiro's HomePage
